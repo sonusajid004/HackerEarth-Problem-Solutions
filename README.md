@@ -1,1 +1,1 @@
-# HackerEarth-Problem-Solutions
+# Coding Problem Solutions on different Platforms
